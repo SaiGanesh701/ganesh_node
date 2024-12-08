@@ -1,0 +1,64 @@
+{
+    "arts":[
+        {
+            "art_id":1,
+            "art_title":"Starry Night",
+            "artist_name":"Vincent van Gogh",
+            "year_of_creation":1889,
+            "art_medium":"Oil on Canvas",
+            "art_image":"https://imgs.search.brave.com/ta7kPudyvxZwZi-bVlwR8DaU_4mquoiXD_3oXZnoXo0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RlL1ZpbmNlbnRf/dmFuX0dvZ2hfU3Rh/cnJ5X05pZ2h0Lmpw/Zw",
+            "art_status":"Display",
+            "art_dimensions":"73.7 * 92.1"
+        },
+        {
+            "art_id":2,
+            "art_title":"Mona Lisa",
+            "artist_name":"Leonardo da Vinci",
+            "year_of_creation":1503,
+            "art_medium":"Oil on Panel",
+            "art_image":"https://imgs.search.brave.com/JIM2Uvu3Tllfj977uf9wULvipdT0HeTmAtNWy2Z9qp0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI3MDM5/MTYuanBn",
+            "art_status":"Sold",
+            "art_dimensions":"77 * 53"
+        },
+        {
+            "art_id":3,
+            "art_title":"The Persistence of Memory",
+            "artist_name":"Salvador Dalí",
+            "year_of_creation":1931,
+            "art_medium":"Oil on Canvas",
+            "art_image":"https://imgs.search.brave.com/KcMIcfX-S_HsBejUrw6JNvYu_R2D71Afj0ApqOemY3U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jNC53/YWxscGFwZXJmbGFy/ZS5jb20vd2FsbHBh/cGVyLzQwLzgwOC85/OTUvdGltZS1zdXJy/ZWFsaXNtLXdhdGNo/LW9pbC13YWxscGFw/ZXItcHJldmlldy5q/cGc",
+            "art_status":"Available",
+            "art_dimensions":"24 * 33"
+        },
+        {
+            "art_id":4,
+            "art_title":"Water Lilies",
+            "artist_name":"Claude Monet",
+            "year_of_creation":1916,
+            "art_medium":"Oil on Canvas",
+            "art_image":"https://imgs.search.brave.com/b_bHXwW8CtByFk7uJ5YnBr64JOdyU6crhm4NeUhm1h8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTQ0/MjczMDAwL2VzL2Zv/dG8vY2xhdWRlLW1v/bmV0LXdhdGVyLWxp/bGllcy1vaWwtb24t/Y2FudmFzLTkxLTQt/eC04MS0xLWNtLW11/c2V1bS1vZi1maW5l/LWFydHMtaG91c3Rv/bi5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9RGtGSkpuUUx4/clBYaWhyOVUtbnBH/Qmo5c1FaU25HcDJp/VFdtaGdEajRsST0",
+            "art_status":"Available",
+            "art_dimensions":"200 * 100"
+        },
+        {
+            "art_id":5,
+            "art_title":"Guernica",
+            "artist_name":"Pablo Picasso",
+            "year_of_creation":1937,
+            "art_medium":"Oil on Canvas",
+            "art_image":"https://imgs.search.brave.com/gRQgW_8eIWyTSYKBjFQaWGehozI-q90clShnO5fxXGo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGFibG9waWNhc3Nv/Lm9yZy9hc3NldHMv/aW1nL3BhaW50aW5n/cy9ndWVybmljYTMu/anBn",
+            "art_status":"Sold",
+            "art_dimensions":"349 * 776"
+        },
+        {
+            "art_id":6,
+            "art_title":"Girl with a Pearl Earring",
+            "artist_name":"Johannes Vermeer",
+            "year_of_creation":1665,
+            "art_medium":"Oil on Canvas",
+            "art_image":"https://imgs.search.brave.com/DvKV6IhUG2dvtgdd4V0MKsaudG1Nhx32aQtpi54TP-4/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5l/c3NlbnRpYWx2ZXJt/ZWVyLmNvbS9jYXRh/bG9ndWVfeGwveGxf/aW1hZ2VzL3hsX2Vh/cnJpbmcuanBn",
+            "art_status":"Available",
+            "art_dimensions":"44.5 * 39"
+        }
+    ]
+}
